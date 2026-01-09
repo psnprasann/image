@@ -1,0 +1,5 @@
+{
+  "name": "Smart Image Optimizer",
+  "description": "A professional tool to crop images to 3:2 aspect ratio, convert to WebP, and reduce file size with AI-powered SEO metadata generation.",
+  "requestFramePermissions": []
+}
